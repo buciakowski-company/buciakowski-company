@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @buciakowski-research
+- 👋 Hi, I’m @buciakowski-company
 - 👀 Currently, in my work, I focus on advanced aspects related to control engineering and digitization. The main areas of activity include designing control algorithms, industrial process optimization strategies, predictive maintenance, implementing digital solutions in Industry 4.0, and data engineering.
 In the realm of designing control algorithms and optimization strategies, efforts are concentrated on developing efficient solutions that enable process control to meet specified requirements while also aiming for optimization based on defined criteria. I also work on designing visual interfaces for effective monitoring and control of systems.
 Regarding predictive maintenance and machine condition monitoring, the scope of work involves using numerical libraries to forecast potential failures and ensure continuous monitoring.
