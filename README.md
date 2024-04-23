@@ -9,11 +9,8 @@ Additionally, I engage in data engineering, encompassing the collection, process
 
 ![Static Badge](https://img.shields.io/badge/digitization-8A2BE2) ![Static Badge](https://img.shields.io/badge/process%20optimization-8A2BE2) ![Static Badge](https://img.shields.io/badge/predictive%20maintenance-8A2BE2) ![Static Badge](https://img.shields.io/badge/process%20control-8A2BE2) ![Static Badge](https://img.shields.io/badge/data%20engineering-8A2BE2)
 
-## 🌱 What am I currently working on?
-Currently, I am working on technical aspects related to electromobility and green energy by analyzing the impact of devices used in microgrids equipped with renewable energy sources, energy storage systems, and electric vehicle charging stations on the power system.
-
 ## 💞️ Who am I looking for?
-I'm seeking collaboration to conduct practical analyses on the impact of microgrids equipped with renewable energy sources on the energy network. The goal is to optimize the operation of devices within this network by developing dedicated control algorithms.
+Clients for whom I will be able to create a bridge between the world of science and their company in order to achieve business goals.
 
 ## 💻 What programming languages do I use at work?
 <p align="center">
