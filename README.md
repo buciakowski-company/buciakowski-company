@@ -9,8 +9,8 @@ Additionally, I engage in data engineering, encompassing the collection, process
 
 ![Static Badge](https://img.shields.io/badge/digitization-8A2BE2) ![Static Badge](https://img.shields.io/badge/process%20optimization-8A2BE2) ![Static Badge](https://img.shields.io/badge/predictive%20maintenance-8A2BE2) ![Static Badge](https://img.shields.io/badge/process%20control-8A2BE2) ![Static Badge](https://img.shields.io/badge/data%20engineering-8A2BE2)
 
-## 💞️ Who am I looking for?
-Clients for whom I will be able to create a bridge between the world of science and their company in order to achieve business goals.
+## 💞️ What can I provide?
+A bridge between the world of science and company in order to achieve business goals.
 
 ## 💻 What programming languages do I use at work?
 <p align="center">
